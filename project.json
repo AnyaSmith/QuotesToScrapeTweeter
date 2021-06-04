@@ -1,6 +1,6 @@
 {
-  "name": "Quotes To Scrape",
-  "description": "Quotes To Scrape Task",
+  "name": "Quotes To Scrape Tweeter",
+  "description": "Quotes To Scrape Tweeter Task",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
